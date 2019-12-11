@@ -1,0 +1,5 @@
+.idea/
+project/
+*.swp
+target/
+.ensime*
